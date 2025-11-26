@@ -18,6 +18,8 @@ We used publicly available datasets from Kaggle:
 * Suicide Watch Dataset
 
 ## Current Progress (Preliminary Results)
-* **Model**: Logistic Regression (Baseline).
+* **Model**: Logistic Regression (Baseline), implementation of advanced models (SVM, Random Forest) and analyzing overfitting.
+
 * **Performance**: Achieved ~94% accuracy on the test set.
-* **Next Steps**: Implementing advanced models (SVM, Random Forest) and analyzing overfitting.
+
+* **Next Step** : Implementation of advanced algorithms and ensemble methods, alongside finding another way to achieve the goal without any class help, justifuing it by scientific reports.
